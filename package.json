@@ -1,0 +1,26 @@
+{
+  "name": "CGM_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damecode/CGM_test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/damecode/CGM_test/issues"
+  },
+  "homepage": "https://github.com/damecode/CGM_test#readme",
+  "dependencies": {
+    "nightwatch": "^1.6.3"
+  },
+  "devDependencies": {
+    "geckodriver": "^1.22.3"
+  }
+}
