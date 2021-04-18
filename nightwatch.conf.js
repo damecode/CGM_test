@@ -38,7 +38,7 @@ module.exports = {
 
       webdriver: {
         start_process: true,
-        server_path: "D:\OneDrive\Documents\GitHub\CGM_test\node_modules\nightwatch\node_modules\chromedriver\lib\chromedriver",
+        server_path: "node_modules/nightwatch/node_modules/chromedriver/lib/chromedriver/chromedriver.exe",
 		 "port": 9515
       }
     },
